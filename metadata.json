@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Counseling Assistant",
+  "description": "An empowering, personalized career guidance assistant inspired by Dr. Sue Black OBE's counseling principles, powered by Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
